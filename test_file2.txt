@@ -1,2 +1,3 @@
 more file to test
 add more text to commit 3
+add more info

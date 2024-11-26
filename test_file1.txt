@@ -1,2 +1,3 @@
 learning more about github on vscode
 add more changes for commit 3
+add moreinfo
